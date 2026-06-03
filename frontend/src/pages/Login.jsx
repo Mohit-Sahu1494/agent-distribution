@@ -117,10 +117,6 @@ const Login = () => {
               Create One
             </Link>
           </p>
-
-          <p className="mt-5 text-[0.78rem] text-text-muted text-center">
-            Default: admin@example.com / admin123
-          </p>
         </div>
       </div>
     </div>
